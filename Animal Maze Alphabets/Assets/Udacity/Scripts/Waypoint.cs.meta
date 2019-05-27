@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e430a4d028174e743929e9eea1b64523
+timeCreated: 1528093355
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - material: {instanceID: 0}
+  - clip_click: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+User test 1:
+My first user test is done with  60 year’s old gentleman and asked him few questions.
+
+Me:  Is the scene height is sufficient for you?
+User: Of course it is pretty well sufficient but sacle little bit.
+
+Me:  How you feel the animation of alphabets and starts?
+User: quite happy with animations because they are simple easy to collect and click.
+
+Me: How you fell this Environment?
+User: It’s pleseant with greenary.
+
+Me: How you feel the Lighting ?
+User: it is very sunny, if possible made it to early morning or evening environment will look good..
+
+Me: How you Feel the movement and instructions?
+User: Movement through waypoints is good and I can able to move easily by clicking them.it is very easy to understand. without instructions also i can understand to play.        
+
+
+My Fixes:
+
+  I changed the directional light settings from full sun to moderated sunlight by using rotaion.
+
+   Adjusted the scale measurements to appropriate as the user said.

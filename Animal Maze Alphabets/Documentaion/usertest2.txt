@@ -1,0 +1,24 @@
+User test 2:
+
+My second user is 16 years young college going pretty girl who is having very good artistic skills. 
+
+Me:  How is the scale and ligthing of the Scene?
+User:They are nice and perfect
+
+Me: How you feel the animation and locomotion?
+User: Animations are good but better to add sounds for the alphabets and Waypoint navigation is pretty easy without any motion sickness like vomitis,dizziness etc.
+
+Me: Over All how you feel the environment and what is your feel?
+User: Over all it feel me very happy and joyfull. From starting to ending of the game while finding the way to home makes me excited and after reaching the home i can able to know the total collected stars as points makes me to play one more time. it is very fun and excited to play.
+
+Me: Any Suggestions?
+User: Try to do more mazes like this i.e, fruits maze, general maze, color maze erc. And add alphabet sound with perticular image name sound.
+
+Fixes:
+
+Added every alpahabet sound with particular animal name with audio souce.
+
+
+Further develepment:
+
+  As the user said will develop more maze games by following the user instructions.
